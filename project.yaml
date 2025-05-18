@@ -7,6 +7,7 @@ basic:
     breakpoints:
         - 320
         - 640
+        - 720
         - 1024
     pages:
         - /
