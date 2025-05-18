@@ -6,9 +6,6 @@ basic:
         development: ''
     breakpoints:
         - 320
-        - 640
-        - 720
-        - 768
         - 1024
     pages:
         - /
